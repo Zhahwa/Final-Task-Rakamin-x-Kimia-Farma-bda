@@ -7,4 +7,4 @@ A project to analyze Kimia Farma's business performance for 2020-2023 using Big 
 - Looker Studio
 
 **Raw Data**
-https://drive.google.com/drive/folders/1lEeVkIv3Nu4V42ia_50inYOu95o4vWbL?usp=sharing
+- https://drive.google.com/drive/folders/1lEeVkIv3Nu4V42ia_50inYOu95o4vWbL?usp=sharing
